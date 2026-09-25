@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Professional chef portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1d1f22"/>
+      <stop offset="100%" stop-color="#111315"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#d5b87a"/>
+      <stop offset="100%" stop-color="#8e6c39"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="110" y="126" width="680" height="912" fill="#171a1d" stroke="rgba(255,255,255,0.14)"/>
+  <rect x="170" y="196" width="560" height="120" fill="none" stroke="url(#goldLine)" stroke-width="3"/>
+  <text x="450" y="262" fill="#f3efe8" font-size="44" text-anchor="middle" font-family="Georgia, serif" letter-spacing="8">PORTRAIT</text>
+  <text x="450" y="308" fill="#d7cdba" font-size="21" text-anchor="middle" font-family="Arial, sans-serif" letter-spacing="4">PLACEHOLDER</text>
+  <g opacity="0.9">
+    <circle cx="450" cy="560" r="165" fill="#25292d"/>
+    <path d="M335 710c22-94 91-150 158-150 104 0 179 86 173 196l-22 121H328l7-167Z" fill="#1d2024"/>
+    <path d="M343 555c28-92 88-142 160-142 78 0 140 59 166 136l-22 18c-30-27-58-42-89-42-54 0-98 39-119 104l-96-74Z" fill="#d5b87a" opacity="0.5"/>
+  </g>
+  <rect x="197" y="930" width="506" height="76" fill="#121315" stroke="rgba(255,255,255,0.08)"/>
+  <text x="450" y="978" fill="#f3efe8" font-size="24" text-anchor="middle" font-family="Arial, sans-serif" letter-spacing="5">ADD PROFESSIONAL IMAGE</text>
+</svg>
